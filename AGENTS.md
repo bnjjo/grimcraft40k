@@ -31,6 +31,8 @@ Warhammer 40k themed Minecraft mod. Guns, armor, 40k style mechanics.
 - src/generated/resources: output of runData; don't hand-edit
 
 ## Conventions
+- Localization: only the en_us language is targeted. Put all translations in
+  lang/en_us.json; do not add other language files.
 - I'm learning: explain non-obvious changes briefly
 - Textures are made by me. Use placeholder references to
   assets/grimcraft40k/textures/item/lasgun.png and NEVER generate art.
