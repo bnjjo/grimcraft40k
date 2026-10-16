@@ -2,6 +2,7 @@
   "itemGroup.grimcraft40k": "Example Mod Tab",
   "block.grimcraft40k.example_block": "Example Block",
   "item.grimcraft40k.example_item": "Example Item",
+  "item.grimcraft40k.lasgun": "Lasgun",
 
   "grimcraft40k.configuration.title": "GrimCraft 40k Configs",
   "grimcraft40k.configuration.section.grimcraft40k.common.toml": "GrimCraft 40k Configs",
